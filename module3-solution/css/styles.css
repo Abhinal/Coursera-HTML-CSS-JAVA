@@ -1,0 +1,19 @@
+body {background-color: #65ccb8;scroll-behavior: smooth;}
+
+/* Header */
+#header-nav{background-color: #182628;border: 0;border-radius: 0;}
+.navbar-brand h1{color: #f2f2f2;font-size: 1.5em;margin: 0;font-family: 'Lora', serif;text-shadow: 1px 1px 1px #222;line-height: 0.75;}
+.navbar-brand a:hover, .navbar-brand a:focus {text-decoration: none;}
+#nav-list {margin-top: 10px;}
+#nav-list a {text-align: center;color: #f2f2f2;}
+#nav-list a:hover {background-color: #57ba98;}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {border: 1px solid #65ccb8;}
+/*End of Header*/
+
+/*Home Page*/
+h1{text-decoration: none;font-family: 'Lora', serif;color: #182628;}
+h3 {font-family: 'Lora', serif;color: #f2f2f2;text-align: center;padding: 10px 0 0 0;}
+p {font-family: 'Oxygen', sans-serif;color: #f2f2f2;width:90%;margin: auto auto 20px auto;padding-bottom: 10px;}
+.tiles{background-color: #3b945e;}
+.tiles a {color: #182628;}
+/*End of Home Page*/
